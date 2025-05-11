@@ -1,3 +1,0 @@
-mkdir app_rating_prediction
-cd app_rating_prediction
-mkdir data notebooks models
